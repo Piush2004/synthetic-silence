@@ -1,0 +1,7 @@
+{
+  "threshold": 0.5656394362449646,
+  "source_split": "E1_DEV",
+  "calibration_method": "Youden_J",
+  "locked": true,
+  "test_tuning": false
+}

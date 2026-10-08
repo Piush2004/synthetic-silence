@@ -1,0 +1,12 @@
+{
+  "positive_target": "is_insufficient=True",
+  "included_positive_constructions": [
+    "retrieved_insufficient",
+    "contradictory"
+  ],
+  "negative_target": "is_insufficient=False",
+  "included_negative_constructions": [
+    "rare_valid",
+    "ambiguous_claim"
+  ]
+}

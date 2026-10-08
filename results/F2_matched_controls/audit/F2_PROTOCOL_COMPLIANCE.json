@@ -1,0 +1,10 @@
+{
+  "target_population": "PRE_SPECIFIED",
+  "control_population": "PRE_SPECIFIED",
+  "matching_variables": "PRE_SPECIFIED",
+  "matching_algorithm": "PRE_SPECIFIED",
+  "caliper": "PRE_SPECIFIED",
+  "missing_value_handling": "PRE_SPECIFIED",
+  "primary_outcome": "PRE_SPECIFIED",
+  "status": "PASS"
+}

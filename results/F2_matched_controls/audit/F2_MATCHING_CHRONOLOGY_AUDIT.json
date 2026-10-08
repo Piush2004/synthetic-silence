@@ -1,0 +1,7 @@
+{
+  "protocol_lock": "BEFORE_EXECUTION",
+  "matching_execution": "BEFORE_B3",
+  "multiple_attempts": false,
+  "matched_pairs_file_creation": "BEFORE_B3",
+  "status": "PASS"
+}

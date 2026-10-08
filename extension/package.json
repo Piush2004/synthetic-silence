@@ -1,0 +1,12 @@
+{
+  "name": "syntheticsilence2-extension",
+  "version": "1.0.0",
+  "description": "Chrome Extension for SyntheticSilence2.0",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/chrome": "^0.0.246"
+  }
+}

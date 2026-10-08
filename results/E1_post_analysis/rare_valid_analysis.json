@@ -1,0 +1,4 @@
+{
+  "AUROC_vs_opposing_class": 0.4637,
+  "interpretation": "rare_valid claims (Supported class in AVeriTeC) have an AUROC near 0.5, meaning their density distribution is not strongly separated from the other positives (insufficient claims). It implies that B3 is not simply assigning high insufficiency scores to valid-but-rare claims. It fails to separate Supported claims from Not Enough Evidence claims."
+}

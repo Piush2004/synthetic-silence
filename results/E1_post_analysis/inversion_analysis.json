@@ -1,0 +1,5 @@
+{
+  "retrieved_insufficient_AUROC": 0.2754,
+  "complementary_AUROC": 0.7246,
+  "interpretation": "The complementary AUROC is 0.7246, demonstrating strong separability but in the EXACT OPPOSITE direction of the hypothesis. retrieved_insufficient claims have LOWER semantic distance (higher density) to the Supported reference manifold than the negative class (which contains Refuted). This indicates the density signal acts as a stylistic anomaly detector, and Refuted claims are far more anomalous than Not Enough Evidence claims."
+}

@@ -1,0 +1,7 @@
+{
+  "auroc": 0.3353,
+  "bootstrap_iterations": 1000,
+  "paired_resampling_respected": false,
+  "bootstrap_note": "Resampling was performed independently on the final concatenated array rather than resampling matched pairs together. While standard for general AUROC, it does not strictly respect the paired dependency structure of matched data.",
+  "status": "PASS_WITH_LIMITATION"
+}

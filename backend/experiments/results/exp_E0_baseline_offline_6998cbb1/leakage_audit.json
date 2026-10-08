@@ -1,0 +1,10 @@
+{
+  "exact_claim_overlap": 0,
+  "normalized_claim_overlap": 0,
+  "document_id_overlap": 0,
+  "url_overlap": 0,
+  "exact_evidence_text_overlap": 0,
+  "near_duplicate_overlap": 0,
+  "overlap_rate": 0.0,
+  "is_clean": true
+}

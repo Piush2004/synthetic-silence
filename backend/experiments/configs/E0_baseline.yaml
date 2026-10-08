@@ -1,0 +1,21 @@
+experiment: E0_baseline
+description: "Frozen benchmark discrimination / baseline feasibility"
+dataset:
+  name: fever
+  split: paper_test
+  path: data/raw/fever/paper_test.jsonl
+reference_manifold:
+  id: fever_train_v1
+  path: data/fever/train.jsonl
+  embedding_model: all-MiniLM-L6-v2
+mode: FROZEN_EVIDENCE_MODE
+baselines_to_run:
+  - B1_evidence_coverage
+  - B3_knn_density
+  - B5_similarity_entropy
+  - B6_llm_verification
+  - B8_combined_heuristic
+metrics:
+  - AUROC
+  - AUPRC
+  - F1 # evaluated at naive 0.5 threshold for uncalibrated scores

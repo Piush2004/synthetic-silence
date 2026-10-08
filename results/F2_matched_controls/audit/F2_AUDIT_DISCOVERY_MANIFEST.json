@@ -1,0 +1,19 @@
+{
+  "audit_target": "results/F2_matched_controls",
+  "artifacts_found": [
+    "F2_PROTOCOL.md",
+    "F2_PRE_EXECUTION_GATE.md",
+    "F2_MANIFEST.json",
+    "matching/MATCHING_FEATURE_SCHEMA.json",
+    "matching/MATCHED_PAIRS.json",
+    "matching/MATCHING_BALANCE.json",
+    "analysis/F2_METRICS.json",
+    "figures/F2_BALANCE_PLOT.png",
+    "figures/F2_B3_COMPARISON.png",
+    "F2_REPORT.md",
+    "F2_INTEGRITY_AUDIT.md",
+    "F2_LEAKAGE_AUDIT.json"
+  ],
+  "missing_artifacts": [],
+  "status": "DISCOVERY_COMPLETE"
+}

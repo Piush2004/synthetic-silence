@@ -1,0 +1,8 @@
+{
+  "backend/experiments/results/exp_E0_baseline_offline_6998cbb1/metrics.json": "ad8e89633956294bf588fa7767719da96a3988c6",
+  "results/E1_execution/E1_THRESHOLD_LOCK.json": "f6de7004f04b736e50699239d2cc234c30b3a05a",
+  "results/E1_execution/statistical_analysis.json": "8c5ce501d05b0bc6fd8baa52c05eaab585458ec8",
+  "results/E1_execution/construction_analysis.json": "f87eb1b7aa2572eb7458ee3f6410735bd2846ac6",
+  "results/E1_post_analysis/E1_FROZEN_RESULT.json": "55c4c74a92429e6b1d72f463dbfb39595d71afd1",
+  "data/processed/e1_population/averitec_E1_TEST.jsonl": "9f88ad0ea51923a55f54456356b82ff97be8de6b"
+}

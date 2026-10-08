@@ -1,0 +1,32 @@
+{
+  "B0_majority_baseline": {
+    "AUROC": 0.5,
+    "Precision": 0.0,
+    "Recall": 0.0,
+    "F1": 0.0
+  },
+  "B1_evidence_coverage": {
+    "AUROC": 0.5,
+    "Precision": 0.24029842735226237,
+    "Recall": 1.0,
+    "F1": 0.38748485373030983
+  },
+  "B3_knn_density": {
+    "AUROC": 0.5463356996267705,
+    "Precision": 0.24029842735226237,
+    "Recall": 1.0,
+    "F1": 0.38748485373030983
+  },
+  "B5_similarity_entropy": {
+    "AUROC": 0.5,
+    "Precision": 0.24029842735226237,
+    "Recall": 1.0,
+    "F1": 0.38748485373030983
+  },
+  "B8_combined_heuristic": {
+    "AUROC": 0.5463356996267705,
+    "Precision": 0.24029842735226237,
+    "Recall": 1.0,
+    "F1": 0.38748485373030983
+  }
+}

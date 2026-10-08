@@ -1,0 +1,4 @@
+{
+  "contradictory_AUROC": 0.4273,
+  "interpretation": "contradictory claims have an AUROC of 0.4273 against the opposing classes. This indicates that contradictory claims are slightly closer to the reference manifold than average, but not as close as retrieved_insufficient claims (0.2754). The signal clearly discriminates between contradictory (0.4273) and insufficient (0.2754), proving that B3 is sensitive to the specific semantic nature of the claims, not just a generic binary evidence status."
+}

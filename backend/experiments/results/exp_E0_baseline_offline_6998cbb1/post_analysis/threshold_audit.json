@@ -1,0 +1,9 @@
+{
+  "DEV_derived_selector_implemented": false,
+  "threshold_selected_using_DEV": false,
+  "selected_threshold_stored": false,
+  "final_test_predictions_used_DEV_threshold": false,
+  "final_run_genuinely_used_naive_0_5": true,
+  "evidence": "report.md and metrics.py explicitly state naive 0.5 threshold was used. No threshold optimization artifact exists. All F1 metrics rely on this naive threshold.",
+  "status_for_threshold_metrics": "PROVISIONAL_THRESHOLD_METRICS"
+}

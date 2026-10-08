@@ -1,0 +1,13 @@
+{
+  "manifold_id": "ref_fever_train_e35b3955",
+  "dataset": "fever",
+  "source_split": "train",
+  "embedding_model": "all-MiniLM-L6-v2",
+  "embedding_dimension": 384,
+  "normalization": "none",
+  "fit_timestamp": "2026-09-27T22:21:33.972726",
+  "instance_count": 10000,
+  "random_seed": 42,
+  "git_sha": "UNKNOWN",
+  "preprocessing_version": "v1"
+}

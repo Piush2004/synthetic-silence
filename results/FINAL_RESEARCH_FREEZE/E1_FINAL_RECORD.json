@@ -1,0 +1,21 @@
+{
+  "DEV": 2384,
+  "TEST": 500,
+  "Reference_manifold": 671,
+  "Quarantined_overlapping_claims": 6,
+  "Youden_threshold": 0.5656,
+  "Threshold_source": "DEV only",
+  "TEST_tuning": "NONE",
+  "Overall_AUROC": 0.3545,
+  "Overall_AUPRC": 0.1117,
+  "95_CI": [
+    0.2925,
+    0.4215
+  ],
+  "retrieved_insufficient_AUROC": 0.2754,
+  "contradictory_AUROC": 0.4273,
+  "rare_valid_AUROC": 0.4637,
+  "Leakage": "CLEAN",
+  "Reproducibility": "PASS",
+  "E0": "UNCHANGED"
+}

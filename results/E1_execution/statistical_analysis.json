@@ -1,0 +1,24 @@
+{
+  "continuous_metrics": {
+    "AUROC": 0.3544961663084277,
+    "AUPRC": 0.11167492083692732,
+    "prevalence": 0.146,
+    "bootstrap_CI": [
+      0.29254514274185417,
+      0.4214971442459594
+    ]
+  },
+  "TEST_METRICS_USING_DEV_THRESHOLD": {
+    "precision": 0.146,
+    "recall": 1.0,
+    "f1": 0.2547993019197208,
+    "specificity": 0.0,
+    "balanced_accuracy": 0.5,
+    "confusion_matrix": {
+      "TP": 73,
+      "TN": 0,
+      "FP": 427,
+      "FN": 0
+    }
+  }
+}

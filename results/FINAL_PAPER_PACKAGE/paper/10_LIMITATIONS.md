@@ -1,0 +1,7 @@
+- FEVER-derived vs naturalistic AVeriTeC construction gaps.
+- Domain differences (web vs wiki).
+- Manifold sizes (10k vs 671).
+- F2 matched sample size limited to 29 pairs.
+- F2 bootstrap utilized independent resampling rather than strict pair-index preservation.
+- Remaining semantic/topical confounding.
+- No temporal or full NLI evaluations.

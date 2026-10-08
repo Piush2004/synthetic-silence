@@ -1,0 +1,1 @@
+Do density/reconstruction-based evidence-sufficiency signals generalize across different constructions of insufficient evidence? (Temporal pre/post-cutoff and true NLI baseline comparisons remain future work.)

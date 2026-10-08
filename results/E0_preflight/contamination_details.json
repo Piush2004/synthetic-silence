@@ -1,0 +1,448 @@
+[
+  {
+    "claim": "Planet of the Apes was released.",
+    "train_matches": [
+      {
+        "id": 62331,
+        "label": "SUPPORTS",
+        "claim": "Planet of the Apes was released.",
+        "evidence_annotation_id": 78793,
+        "evidence_id": 90368,
+        "evidence_wiki_url": "Planet_of_the_Apes_-LRB-1968_film-RRB-",
+        "evidence_sentence_id": 19
+      },
+      {
+        "id": 68749,
+        "label": "SUPPORTS",
+        "claim": "Planet of the Apes was released.",
+        "evidence_annotation_id": 85369,
+        "evidence_id": 97682,
+        "evidence_wiki_url": "Planet_of_the_Apes_-LRB-1968_film-RRB-",
+        "evidence_sentence_id": 19
+      },
+      {
+        "id": 68749,
+        "label": "SUPPORTS",
+        "claim": "Planet of the Apes was released.",
+        "evidence_annotation_id": 85369,
+        "evidence_id": 97683,
+        "evidence_wiki_url": "Planet_of_the_Apes_-LRB-1968_film-RRB-",
+        "evidence_sentence_id": 4
+      },
+      {
+        "id": 58668,
+        "label": "SUPPORTS",
+        "claim": "Planet of the Apes was released.",
+        "evidence_annotation_id": 75064,
+        "evidence_id": 86288,
+        "evidence_wiki_url": "Planet_of_the_Apes_-LRB-1968_film-RRB-",
+        "evidence_sentence_id": 4
+      },
+      {
+        "id": 58668,
+        "label": "SUPPORTS",
+        "claim": "Planet of the Apes was released.",
+        "evidence_annotation_id": 75064,
+        "evidence_id": 86289,
+        "evidence_wiki_url": "Planet_of_the_Apes_-LRB-1968_film-RRB-",
+        "evidence_sentence_id": 19
+      }
+    ],
+    "paper_test_matches": [
+      {
+        "id": 67538,
+        "label": "",
+        "claim": "Planet of the Apes was released.",
+        "evidence_annotation_id": -1,
+        "evidence_id": -1,
+        "evidence_wiki_url": "",
+        "evidence_sentence_id": -1
+      }
+    ]
+  },
+  {
+    "claim": "Boston is in the United States.",
+    "train_matches": [
+      {
+        "id": 193612,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 226714,
+        "evidence_id": 231195,
+        "evidence_wiki_url": "United_States",
+        "evidence_sentence_id": 12
+      },
+      {
+        "id": 73325,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 90091,
+        "evidence_id": 102768,
+        "evidence_wiki_url": "Boston",
+        "evidence_sentence_id": -1
+      },
+      {
+        "id": 73325,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 90091,
+        "evidence_id": 102769,
+        "evidence_wiki_url": "Boston",
+        "evidence_sentence_id": 2
+      },
+      {
+        "id": 73325,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 90091,
+        "evidence_id": 102770,
+        "evidence_wiki_url": "Boston",
+        "evidence_sentence_id": 3
+      },
+      {
+        "id": 73325,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 90091,
+        "evidence_id": 102771,
+        "evidence_wiki_url": "Boston",
+        "evidence_sentence_id": 4
+      },
+      {
+        "id": 73325,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 90091,
+        "evidence_id": 102772,
+        "evidence_wiki_url": "Boston",
+        "evidence_sentence_id": 7
+      },
+      {
+        "id": 73325,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 90091,
+        "evidence_id": 102773,
+        "evidence_wiki_url": "Boston",
+        "evidence_sentence_id": 9
+      },
+      {
+        "id": 73325,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 90091,
+        "evidence_id": 102774,
+        "evidence_wiki_url": "Boston",
+        "evidence_sentence_id": 8
+      },
+      {
+        "id": 73325,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 90091,
+        "evidence_id": 102775,
+        "evidence_wiki_url": "Boston",
+        "evidence_sentence_id": 12
+      },
+      {
+        "id": 73325,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 90091,
+        "evidence_id": 102776,
+        "evidence_wiki_url": "Boston",
+        "evidence_sentence_id": 17
+      },
+      {
+        "id": 73325,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 90091,
+        "evidence_id": 102777,
+        "evidence_wiki_url": "Boston",
+        "evidence_sentence_id": 18
+      },
+      {
+        "id": 85835,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 274086,
+        "evidence_id": 269405,
+        "evidence_wiki_url": "Boston",
+        "evidence_sentence_id": -1
+      },
+      {
+        "id": 85835,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 274095,
+        "evidence_id": 269416,
+        "evidence_wiki_url": "Boston",
+        "evidence_sentence_id": -1
+      },
+      {
+        "id": 85835,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 274095,
+        "evidence_id": 269417,
+        "evidence_wiki_url": "Boston",
+        "evidence_sentence_id": 2
+      },
+      {
+        "id": 85835,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 274095,
+        "evidence_id": 269418,
+        "evidence_wiki_url": "Boston",
+        "evidence_sentence_id": 4
+      },
+      {
+        "id": 85835,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 274095,
+        "evidence_id": 269419,
+        "evidence_wiki_url": "Boston",
+        "evidence_sentence_id": 7
+      },
+      {
+        "id": 85835,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 274095,
+        "evidence_id": 269420,
+        "evidence_wiki_url": "Boston",
+        "evidence_sentence_id": 12
+      },
+      {
+        "id": 85835,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 274095,
+        "evidence_id": 269421,
+        "evidence_wiki_url": "Boston",
+        "evidence_sentence_id": 17
+      },
+      {
+        "id": 85835,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 274095,
+        "evidence_id": 269422,
+        "evidence_wiki_url": "Boston",
+        "evidence_sentence_id": 18
+      },
+      {
+        "id": 85835,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 276496,
+        "evidence_id": 271571,
+        "evidence_wiki_url": "Boston",
+        "evidence_sentence_id": -1
+      },
+      {
+        "id": 85835,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 276496,
+        "evidence_id": 271572,
+        "evidence_wiki_url": "Boston",
+        "evidence_sentence_id": 1
+      },
+      {
+        "id": 85835,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 276496,
+        "evidence_id": 271572,
+        "evidence_wiki_url": "Suffolk_County,_Massachusetts",
+        "evidence_sentence_id": -1
+      },
+      {
+        "id": 85835,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 276496,
+        "evidence_id": 271573,
+        "evidence_wiki_url": "Boston",
+        "evidence_sentence_id": 2
+      },
+      {
+        "id": 85835,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 276496,
+        "evidence_id": 271574,
+        "evidence_wiki_url": "Boston",
+        "evidence_sentence_id": 7
+      },
+      {
+        "id": 85835,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 276496,
+        "evidence_id": 271575,
+        "evidence_wiki_url": "Boston",
+        "evidence_sentence_id": 12
+      },
+      {
+        "id": 85835,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 276496,
+        "evidence_id": 271576,
+        "evidence_wiki_url": "Boston",
+        "evidence_sentence_id": 18
+      },
+      {
+        "id": 85835,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 276496,
+        "evidence_id": 271576,
+        "evidence_wiki_url": "Boston",
+        "evidence_sentence_id": -1
+      },
+      {
+        "id": 85835,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 322198,
+        "evidence_id": 310564,
+        "evidence_wiki_url": "Boston",
+        "evidence_sentence_id": 7
+      },
+      {
+        "id": 85835,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 322198,
+        "evidence_id": 310565,
+        "evidence_wiki_url": "Boston",
+        "evidence_sentence_id": -1
+      },
+      {
+        "id": 85835,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 322198,
+        "evidence_id": 310566,
+        "evidence_wiki_url": "Boston",
+        "evidence_sentence_id": 2
+      },
+      {
+        "id": 85835,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 323418,
+        "evidence_id": 311651,
+        "evidence_wiki_url": "Boston",
+        "evidence_sentence_id": -1
+      },
+      {
+        "id": 85835,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 323419,
+        "evidence_id": 311652,
+        "evidence_wiki_url": "Boston",
+        "evidence_sentence_id": -1
+      },
+      {
+        "id": 85835,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 323428,
+        "evidence_id": 311662,
+        "evidence_wiki_url": "Boston",
+        "evidence_sentence_id": -1
+      },
+      {
+        "id": 85835,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 323428,
+        "evidence_id": 311663,
+        "evidence_wiki_url": "Boston",
+        "evidence_sentence_id": 1
+      },
+      {
+        "id": 85835,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 323428,
+        "evidence_id": 311663,
+        "evidence_wiki_url": "Suffolk_County,_Massachusetts",
+        "evidence_sentence_id": -1
+      },
+      {
+        "id": 85835,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 323428,
+        "evidence_id": 311664,
+        "evidence_wiki_url": "Boston",
+        "evidence_sentence_id": 3
+      },
+      {
+        "id": 85835,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 323428,
+        "evidence_id": 311664,
+        "evidence_wiki_url": "Greater_Boston",
+        "evidence_sentence_id": -1
+      },
+      {
+        "id": 85835,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 323428,
+        "evidence_id": 311665,
+        "evidence_wiki_url": "Boston",
+        "evidence_sentence_id": 7
+      },
+      {
+        "id": 85835,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 323428,
+        "evidence_id": 311666,
+        "evidence_wiki_url": "Boston",
+        "evidence_sentence_id": 12
+      },
+      {
+        "id": 85835,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 323428,
+        "evidence_id": 311666,
+        "evidence_wiki_url": "Boston_Latin_School",
+        "evidence_sentence_id": 1
+      },
+      {
+        "id": 85835,
+        "label": "SUPPORTS",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": 323428,
+        "evidence_id": 311667,
+        "evidence_wiki_url": "Boston",
+        "evidence_sentence_id": 8
+      }
+    ],
+    "paper_test_matches": [
+      {
+        "id": 95718,
+        "label": "",
+        "claim": "Boston is in the United States.",
+        "evidence_annotation_id": -1,
+        "evidence_id": -1,
+        "evidence_wiki_url": "",
+        "evidence_sentence_id": -1
+      }
+    ]
+  }
+]

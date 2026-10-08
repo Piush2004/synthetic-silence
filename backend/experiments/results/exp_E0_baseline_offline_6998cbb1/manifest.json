@@ -1,0 +1,57 @@
+{
+  "experiment_id": "exp_E0_baseline_offline_6998cbb1",
+  "dataset_identity": "fever",
+  "dataset_version": "1.0",
+  "dataset_split": "OFFLINE_E0_TEST",
+  "dataset_file_hashes": {
+    "test_split": "852a4446dc6ea2755486de413ec444724acad59eab83d0a1323733e2e0e19da9"
+  },
+  "populations": {
+    "E0_ORIGINAL_EVALUATION_POPULATION": "data/raw/fever/paper_test.jsonl",
+    "E0_EXCLUDED_CONTAMINATED_INSTANCES": [],
+    "E0_FINAL_EVALUATION_POPULATION": "Full test set, N=18631",
+    "E0_FINAL_EVALUATION_N": 18631,
+    "E0_PROTOTYPE_N": 500
+  },
+  "reference_manifold_id": "fever_train_v1",
+  "exclusion_manifest_hash": "MISSING",
+  "embedding_model": "all-MiniLM-L6-v2",
+  "embedding_revision": "default",
+  "preprocessing_configuration": "default",
+  "experiment_configuration": {
+    "experiment": "E0_baseline_offline",
+    "description": "Frozen benchmark discrimination / baseline feasibility",
+    "dataset": {
+      "name": "fever",
+      "split": "OFFLINE_E0_TEST",
+      "path": "data/raw/fever/paper_dev.jsonl"
+    },
+    "reference_manifold": {
+      "id": "fever_train_v1",
+      "path": "data/raw/fever/train.jsonl",
+      "embedding_model": "all-MiniLM-L6-v2"
+    },
+    "mode": "FROZEN_EVIDENCE_MODE",
+    "baselines_to_run": [
+      "B0_majority_baseline",
+      "B1_evidence_coverage",
+      "B3_knn_density",
+      "B5_similarity_entropy",
+      "B8_combined_heuristic"
+    ],
+    "metrics": [
+      "AUROC",
+      "AUPRC",
+      "F1"
+    ]
+  },
+  "algorithm_version": "heuristic_v0",
+  "random_seed": 42,
+  "git_sha": "UNKNOWN",
+  "software_environment": {
+    "python_version": "3.13.2",
+    "os": "macOS-26.6.2-arm64-arm-64bit-Mach-O"
+  },
+  "timestamp": "2026-09-27T22:53:14.085663",
+  "status": "COMPLETED"
+}

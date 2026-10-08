@@ -1,0 +1,42 @@
+{
+  "false_positives_count": 14154,
+  "false_negatives_count": 0,
+  "highest_scoring_FP": {
+    "instance_id": "146485",
+    "claim": "Netscape Navigator is unable to access the internet.",
+    "true_is_insufficient": false,
+    "predicted_insufficiency_score": 0.8966443538665771,
+    "raw_signals": {
+      "evidence_coverage": 0.0,
+      "semantic_support": 0.5,
+      "retrieval_confidence": 0.10335564613342285,
+      "contradiction_level": 0.5,
+      "temporal_coverage": null,
+      "representation_density": 0.8966443538665771,
+      "uncertainty": 1.0,
+      "insufficiency_signal": null,
+      "construction_family_estimate": null,
+      "calibration_status": "NOT_CALIBRATED"
+    }
+  },
+  "lowest_scoring_FN": null,
+  "highest_scoring_TP": {
+    "instance_id": "128127",
+    "claim": "Email filtering output is capable of redirecting messages to the user's other accounts.",
+    "true_is_insufficient": true,
+    "predicted_insufficiency_score": 0.910291850566864,
+    "raw_signals": {
+      "evidence_coverage": 0.0,
+      "semantic_support": 0.5,
+      "retrieval_confidence": 0.08970814943313599,
+      "contradiction_level": 0.5,
+      "temporal_coverage": null,
+      "representation_density": 0.910291850566864,
+      "uncertainty": 1.0,
+      "insufficiency_signal": null,
+      "construction_family_estimate": null,
+      "calibration_status": "NOT_CALIBRATED"
+    }
+  },
+  "lowest_scoring_TN": null
+}

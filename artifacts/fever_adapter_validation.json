@@ -1,0 +1,14 @@
+{
+  "data/raw/fever/train.jsonl": {
+    "instances_parsed": 311431,
+    "mapping_valid": true
+  },
+  "data/raw/fever/paper_dev.jsonl": {
+    "instances_parsed": 37566,
+    "mapping_valid": true
+  },
+  "data/raw/fever/paper_test.jsonl": {
+    "instances_parsed": 0,
+    "mapping_valid": true
+  }
+}

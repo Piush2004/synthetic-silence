@@ -1,0 +1,42 @@
+{
+  "H1_reference_manifold_effect": {
+    "status": "SUPPORTED",
+    "evidence": [
+      "retrieved_insufficient claims produce an inverted AUROC (0.2754), indicating they are much closer to the Supported reference manifold than the opposing class.",
+      "This behavior is consistent with B3 purely measuring semantic distance to the specific Supported manifold rather than an abstract 'evidence insufficiency'."
+    ]
+  },
+  "H2_domain_shift": {
+    "status": "PARTIALLY_SUPPORTED",
+    "evidence": [
+      "Overall AUROC dropped from 0.5463 to 0.3545. However, since we did not evaluate the FEVER manifold on AVeriTeC claims, we cannot fully disentangle domain shift from construction shift with the frozen artifacts."
+    ]
+  },
+  "H3_class_composition": {
+    "status": "SUPPORTED",
+    "evidence": [
+      "The negative class in AVeriTeC includes 'Refuted' and 'Conflicting' claims.",
+      "The extreme AUROC inversion implies that these 'Refuted' claims are pushed further away from the Supported manifold than 'Not Enough Evidence' claims, making 'Not Enough Evidence' appear denser."
+    ]
+  },
+  "H4_stylistic_structural_confounding": {
+    "status": "NOT_TESTABLE",
+    "evidence": [
+      "Instance-level predictions and scores were not persisted in the E1 artifacts before execution crash.",
+      "Cannot compute correlation with claim length, syntax, or entities without running a follow-up experiment."
+    ]
+  },
+  "H5_construction_dependence": {
+    "status": "SUPPORTED",
+    "evidence": [
+      "The shift from FEVER's artificial 'missing_evidence' mutation to AVeriTeC's natural 'retrieved_insufficient' entirely inverted the discriminative direction.",
+      "This establishes that the density signal is highly dependent on the specific construction of the insufficiency class."
+    ]
+  },
+  "H6_retrieval_evidence_artifact": {
+    "status": "NOT_TESTABLE",
+    "evidence": [
+      "Instance-level evidence properties (question count, URL count) are unavailable without re-running the evaluation."
+    ]
+  }
+}

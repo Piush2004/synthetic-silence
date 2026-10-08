@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "SyntheticSilence2.0",
+  "version": "1.0.0",
+  "description": "Evidence Insufficiency Engine UI",
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "dist/background.js",
+    "type": "module"
+  }
+}

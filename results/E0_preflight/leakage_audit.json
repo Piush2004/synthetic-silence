@@ -1,0 +1,24 @@
+{
+  "statistical_reporting": {
+    "original_N": 18631,
+    "excluded_N": 0,
+    "final_N": 18631,
+    "class_counts_before_exclusion": {
+      "SUPPORTS": 7205,
+      "REFUTES": 6949,
+      "NOT ENOUGH INFO": 4477,
+      "OTHER": 0
+    },
+    "class_counts_after_exclusion": {
+      "SUPPORTS": 7205,
+      "REFUTES": 6949,
+      "NOT ENOUGH INFO": 4477,
+      "OTHER": 0
+    },
+    "exclusion_rate": 0.0
+  },
+  "exact_claim_overlap": 0,
+  "normalized_claim_overlap": 0,
+  "dev_test_claim_overlap": 0,
+  "is_clean": true
+}

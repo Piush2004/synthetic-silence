@@ -1,0 +1,28 @@
+{
+  "dataset_name": "FEVER",
+  "dataset_version": "1.0 (paper splits from huggingface)",
+  "acquisition_timestamp": "2026-09-27T22:19:41.417596",
+  "files": [
+    {
+      "filename": "train.jsonl",
+      "path": "data/raw/fever/train.jsonl",
+      "source": "huggingface:fever/v1.0",
+      "byte_size": 67117762,
+      "sha256": "777635ac0130533a2a2e264b21b06a001d7ba7a712fd95c7a3324b7abf12c1ff"
+    },
+    {
+      "filename": "paper_dev.jsonl",
+      "path": "data/raw/fever/paper_dev.jsonl",
+      "source": "huggingface:fever/v1.0",
+      "byte_size": 8162351,
+      "sha256": "852a4446dc6ea2755486de413ec444724acad59eab83d0a1323733e2e0e19da9"
+    },
+    {
+      "filename": "paper_test.jsonl",
+      "path": "data/raw/fever/paper_test.jsonl",
+      "source": "huggingface:fever/v1.0",
+      "byte_size": 3898929,
+      "sha256": "4c5f00f4e929bafe83da3eb5ac566495444c345e67b37d3bc0ba24b626f2c0d7"
+    }
+  ]
+}

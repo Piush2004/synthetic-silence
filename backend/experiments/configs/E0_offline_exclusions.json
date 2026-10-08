@@ -1,0 +1,5 @@
+{
+  "dataset": "FEVER",
+  "split": "OFFLINE_E0_TEST",
+  "excluded_instances": []
+}

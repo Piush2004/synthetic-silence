@@ -1,0 +1,14 @@
+{
+  "AUROC_values": {
+    "B0_majority_baseline": 0.5,
+    "B1_evidence_coverage": 0.5,
+    "B3_knn_density": 0.5463356996267705,
+    "B5_similarity_entropy": 0.5,
+    "B8_combined_heuristic": 0.5463356996267705
+  },
+  "Absolute_Differences": {
+    "B3_minus_B1": 0.04633569962677053,
+    "B3_minus_B5": 0.04633569962677053,
+    "B8_minus_B3": 0.0
+  }
+}

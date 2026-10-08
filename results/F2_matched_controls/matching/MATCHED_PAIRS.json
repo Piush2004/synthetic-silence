@@ -1,0 +1,495 @@
+[
+  {
+    "target_instance_id": "d90ed8e3-8c79-5516-9421-316e6090cdac",
+    "control_instance_id": "862e1085-b019-597d-badc-5ba0df61cf55",
+    "matching_distance": 0.17624087418966983,
+    "target_features": [
+      136,
+      20,
+      0.95
+    ],
+    "control_features": [
+      128,
+      20,
+      0.95
+    ],
+    "caliper_pass": true,
+    "dataset_split": "TEST"
+  },
+  {
+    "target_instance_id": "da60e831-9ea3-573b-aa94-edd60420dcd0",
+    "control_instance_id": "c5a1387d-5728-537b-8ecd-9a73b54affdb",
+    "matching_distance": 0.1285898890817967,
+    "target_features": [
+      42,
+      6,
+      1.0
+    ],
+    "control_features": [
+      41,
+      7,
+      1.0
+    ],
+    "caliper_pass": true,
+    "dataset_split": "TEST"
+  },
+  {
+    "target_instance_id": "6e8aa6e6-4cc2-5a54-8e1f-4a98ddea1b23",
+    "control_instance_id": "289a9531-3f46-5a08-8346-cff54a9217ef",
+    "matching_distance": 0.022030109273708742,
+    "target_features": [
+      73,
+      12,
+      1.0
+    ],
+    "control_features": [
+      72,
+      12,
+      1.0
+    ],
+    "caliper_pass": true,
+    "dataset_split": "TEST"
+  },
+  {
+    "target_instance_id": "d47bf947-5b1c-55ee-8004-b157153a1cfd",
+    "control_instance_id": "d9a8ccad-2c5b-5c5b-bfc5-578c3f7303c6",
+    "matching_distance": 0.06609032782112617,
+    "target_features": [
+      108,
+      19,
+      0.8947368421052632
+    ],
+    "control_features": [
+      105,
+      19,
+      0.8947368421052632
+    ],
+    "caliper_pass": true,
+    "dataset_split": "TEST"
+  },
+  {
+    "target_instance_id": "392b690f-8a5f-5532-b565-fa0ac1ecb5c3",
+    "control_instance_id": "ec878245-58fd-56d3-ab52-57587d7757e8",
+    "matching_distance": 0.2654268456827513,
+    "target_features": [
+      131,
+      24,
+      0.9583333333333334
+    ],
+    "control_features": [
+      129,
+      22,
+      0.9545454545454546
+    ],
+    "caliper_pass": true,
+    "dataset_split": "TEST"
+  },
+  {
+    "target_instance_id": "d90b9711-8aa2-56d8-b8b8-4037530c50ad",
+    "control_instance_id": "b273c8d1-3d21-59a1-aa6a-1515e280f69d",
+    "matching_distance": 0.16787845819147224,
+    "target_features": [
+      125,
+      20,
+      1.0
+    ],
+    "control_features": [
+      130,
+      21,
+      1.0
+    ],
+    "caliper_pass": true,
+    "dataset_split": "TEST"
+  },
+  {
+    "target_instance_id": "d4803f34-fc5a-5f12-beff-3d6d43a8af33",
+    "control_instance_id": "4b3cb053-1187-5c58-b31c-5f7a46685298",
+    "matching_distance": 0.04406021854741746,
+    "target_features": [
+      92,
+      17,
+      1.0
+    ],
+    "control_features": [
+      94,
+      17,
+      1.0
+    ],
+    "caliper_pass": true,
+    "dataset_split": "TEST"
+  },
+  {
+    "target_instance_id": "8d7a8e72-4963-56f4-a116-ffdac2ec2946",
+    "control_instance_id": "b756d1d2-fc99-5c05-be50-cef29b1faf67",
+    "matching_distance": 0.2541310790135907,
+    "target_features": [
+      134,
+      21,
+      1.0
+    ],
+    "control_features": [
+      124,
+      22,
+      1.0
+    ],
+    "caliper_pass": true,
+    "dataset_split": "TEST"
+  },
+  {
+    "target_instance_id": "1d46631d-d05f-5d8c-84af-1fc8c1b453ef",
+    "control_instance_id": "38431843-7bbd-59b0-aa85-d06a89a6c0d5",
+    "matching_distance": 0.13218065564225234,
+    "target_features": [
+      111,
+      17,
+      0.9411764705882353
+    ],
+    "control_features": [
+      117,
+      17,
+      0.9411764705882353
+    ],
+    "caliper_pass": true,
+    "dataset_split": "TEST"
+  },
+  {
+    "target_instance_id": "2fb478de-a39c-51a8-87f1-7e9279cbac88",
+    "control_instance_id": "e2255d85-5fac-5f9e-b650-2ffb8737fadc",
+    "matching_distance": 0.12858988908179664,
+    "target_features": [
+      100,
+      17,
+      1.0
+    ],
+    "control_features": [
+      101,
+      16,
+      1.0
+    ],
+    "caliper_pass": true,
+    "dataset_split": "TEST"
+  },
+  {
+    "target_instance_id": "1bd56e5d-dccf-55c0-b11d-10637b455dde",
+    "control_instance_id": "e236c652-c5ee-5b6f-9096-4f2e195cc4be",
+    "matching_distance": 0.04406021854741726,
+    "target_features": [
+      151,
+      29,
+      0.8620689655172413
+    ],
+    "control_features": [
+      153,
+      29,
+      0.8620689655172413
+    ],
+    "caliper_pass": true,
+    "dataset_split": "TEST"
+  },
+  {
+    "target_instance_id": "fc3a343b-5a27-54af-aa08-39b8d6930d2e",
+    "control_instance_id": "cd6139a9-8d0e-5cd4-bbb5-1e211e0e7511",
+    "matching_distance": 0.08812043709483491,
+    "target_features": [
+      72,
+      15,
+      0.9333333333333333
+    ],
+    "control_features": [
+      76,
+      15,
+      0.9333333333333333
+    ],
+    "caliper_pass": true,
+    "dataset_split": "TEST"
+  },
+  {
+    "target_instance_id": "ccd513ef-d1c0-5fe9-9d44-37815b8aa19d",
+    "control_instance_id": "d98e930d-b1ea-590a-bd7e-b517bcf895f5",
+    "matching_distance": 0.2536745317249567,
+    "target_features": [
+      59,
+      11,
+      0.9090909090909091
+    ],
+    "control_features": [
+      67,
+      12,
+      0.9166666666666666
+    ],
+    "caliper_pass": true,
+    "dataset_split": "TEST"
+  },
+  {
+    "target_instance_id": "79c01543-3646-59fb-b93e-a5423971b3fb",
+    "control_instance_id": "3a64f67f-e451-5a7e-a59a-e9b812d29263",
+    "matching_distance": 0.15120036035011186,
+    "target_features": [
+      72,
+      15,
+      0.9333333333333333
+    ],
+    "control_features": [
+      72,
+      14,
+      0.9285714285714286
+    ],
+    "caliper_pass": true,
+    "dataset_split": "TEST"
+  },
+  {
+    "target_instance_id": "4e35d6d0-f86b-5609-bd25-4cc239436c00",
+    "control_instance_id": "7212cd1e-d828-5e74-b336-c678e0274b90",
+    "matching_distance": 0.0,
+    "target_features": [
+      49,
+      9,
+      1.0
+    ],
+    "control_features": [
+      49,
+      9,
+      1.0
+    ],
+    "caliper_pass": true,
+    "dataset_split": "TEST"
+  },
+  {
+    "target_instance_id": "693b7bc3-3e09-5f41-b465-11ebc97b6df2",
+    "control_instance_id": "33ce1ff0-30a1-5dc4-af20-0644684a054e",
+    "matching_distance": 0.044060218547417485,
+    "target_features": [
+      54,
+      8,
+      1.0
+    ],
+    "control_features": [
+      52,
+      8,
+      1.0
+    ],
+    "caliper_pass": true,
+    "dataset_split": "TEST"
+  },
+  {
+    "target_instance_id": "db4549ac-f7bc-5347-841c-4d457bca102a",
+    "control_instance_id": "4422d6e6-575e-5f8e-9801-9f27797c6da4",
+    "matching_distance": 0.352591790244912,
+    "target_features": [
+      54,
+      12,
+      0.8333333333333334
+    ],
+    "control_features": [
+      63,
+      11,
+      0.8181818181818182
+    ],
+    "caliper_pass": true,
+    "dataset_split": "TEST"
+  },
+  {
+    "target_instance_id": "7687eed6-0216-553e-b442-d664fbad868c",
+    "control_instance_id": "6519f16f-6a6f-5f47-ab09-750fdcc99b95",
+    "matching_distance": 0.08812043709483486,
+    "target_features": [
+      64,
+      13,
+      1.0
+    ],
+    "control_features": [
+      68,
+      13,
+      1.0
+    ],
+    "caliper_pass": true,
+    "dataset_split": "TEST"
+  },
+  {
+    "target_instance_id": "1a3e8e00-853e-5289-a1a7-18cb021d7688",
+    "control_instance_id": "668c1f5f-4d0b-54a3-ba7c-0cd5cbf6e7b5",
+    "matching_distance": 0.08812043709483475,
+    "target_features": [
+      48,
+      9,
+      1.0
+    ],
+    "control_features": [
+      52,
+      9,
+      1.0
+    ],
+    "caliper_pass": true,
+    "dataset_split": "TEST"
+  },
+  {
+    "target_instance_id": "ee3680f6-1a88-5715-8a47-fbe1e72f6e77",
+    "control_instance_id": "c192c98e-7276-50b6-956e-85aed9a909e5",
+    "matching_distance": 0.27811566204707266,
+    "target_features": [
+      210,
+      32,
+      0.96875
+    ],
+    "control_features": [
+      205,
+      34,
+      0.9705882352941176
+    ],
+    "caliper_pass": true,
+    "dataset_split": "TEST"
+  },
+  {
+    "target_instance_id": "2e51ee78-ceae-578f-a688-b8488f5da8a2",
+    "control_instance_id": "d66ec9cd-0193-589d-aca8-12d12d761b66",
+    "matching_distance": 0.0,
+    "target_features": [
+      62,
+      9,
+      1.0
+    ],
+    "control_features": [
+      62,
+      9,
+      1.0
+    ],
+    "caliper_pass": true,
+    "dataset_split": "TEST"
+  },
+  {
+    "target_instance_id": "c4c4ecce-0f0d-571d-9428-2a992611dbe2",
+    "control_instance_id": "e6fb38f4-4e5e-5401-8ff9-e0baa553f7ef",
+    "matching_distance": 0.31800025084914224,
+    "target_features": [
+      95,
+      17,
+      0.8235294117647058
+    ],
+    "control_features": [
+      85,
+      16,
+      0.8125
+    ],
+    "caliper_pass": true,
+    "dataset_split": "TEST"
+  },
+  {
+    "target_instance_id": "5ecc64d5-2b18-5cab-8490-e957f3bcf2c9",
+    "control_instance_id": "1d3d6613-eb5d-5164-adf8-a4e68ffbc17c",
+    "matching_distance": 0.04406021854741726,
+    "target_features": [
+      49,
+      10,
+      1.0
+    ],
+    "control_features": [
+      51,
+      10,
+      1.0
+    ],
+    "caliper_pass": true,
+    "dataset_split": "TEST"
+  },
+  {
+    "target_instance_id": "6935c947-2df3-511f-81a8-2a3ff23a18c2",
+    "control_instance_id": "3e075896-d233-582b-841f-3cff30e14851",
+    "matching_distance": 0.1762408741896698,
+    "target_features": [
+      102,
+      17,
+      1.0
+    ],
+    "control_features": [
+      110,
+      17,
+      1.0
+    ],
+    "caliper_pass": true,
+    "dataset_split": "TEST"
+  },
+  {
+    "target_instance_id": "aba0bc4d-84df-52b6-8f54-3a6a5bcc6ef7",
+    "control_instance_id": "380f055b-568a-5b81-b6b3-059ea648b370",
+    "matching_distance": 0.13218065564225234,
+    "target_features": [
+      87,
+      15,
+      0.8666666666666667
+    ],
+    "control_features": [
+      81,
+      15,
+      0.8666666666666667
+    ],
+    "caliper_pass": true,
+    "dataset_split": "TEST"
+  },
+  {
+    "target_instance_id": "1ecd1a4b-8524-5257-af64-1181c37a67fa",
+    "control_instance_id": "d3786dc3-ce83-5fa4-b874-b5413a0b3c6b",
+    "matching_distance": 0.08812043709483489,
+    "target_features": [
+      106,
+      19,
+      0.8947368421052632
+    ],
+    "control_features": [
+      102,
+      19,
+      0.8947368421052632
+    ],
+    "caliper_pass": true,
+    "dataset_split": "TEST"
+  },
+  {
+    "target_instance_id": "ba1a4cb0-8078-5b04-82cc-f260982bd430",
+    "control_instance_id": "57351b62-3d2f-51a3-b557-bed8f20f0113",
+    "matching_distance": 0.2493450056719384,
+    "target_features": [
+      73,
+      14,
+      0.9285714285714286
+    ],
+    "control_features": [
+      82,
+      15,
+      0.9333333333333333
+    ],
+    "caliper_pass": true,
+    "dataset_split": "TEST"
+  },
+  {
+    "target_instance_id": "c8c6949b-18a6-5e85-93fe-aeb83a04dffd",
+    "control_instance_id": "afe8fe27-d8c1-5006-ac89-1c23eab8d16a",
+    "matching_distance": 0.1101505463685436,
+    "target_features": [
+      109,
+      18,
+      1.0
+    ],
+    "control_features": [
+      114,
+      18,
+      1.0
+    ],
+    "caliper_pass": true,
+    "dataset_split": "TEST"
+  },
+  {
+    "target_instance_id": "2168bc7d-871d-53b2-979c-82e1bc40a7e7",
+    "control_instance_id": "0ac63b3e-97f6-55d0-9f39-e37cd48409c7",
+    "matching_distance": 0.2840390191183679,
+    "target_features": [
+      142,
+      23,
+      0.9130434782608695
+    ],
+    "control_features": [
+      140,
+      25,
+      0.92
+    ],
+    "caliper_pass": true,
+    "dataset_split": "TEST"
+  }
+]

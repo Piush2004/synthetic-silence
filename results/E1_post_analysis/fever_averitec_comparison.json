@@ -1,0 +1,14 @@
+{
+  "FEVER_E0": {
+    "B3_AUROC": 0.5463,
+    "construction": "missing_evidence",
+    "reference_manifold": "fever_train_v1"
+  },
+  "AVeriTeC_E1": {
+    "B3_AUROC_overall": 0.3545,
+    "retrieved_insufficient": 0.2754,
+    "construction": "retrieved_insufficient",
+    "reference_manifold": "averitec_train_supported_v1"
+  },
+  "interpretation": "FEVER's missing_evidence slightly aligned with higher distance. AVeriTeC's retrieved_insufficient profoundly aligned with lower distance. The signal entirely fails cross-construction generalization, proving the B3 signal is an artifact of dataset-specific construction."
+}

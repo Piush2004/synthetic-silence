@@ -1,0 +1,14 @@
+{
+  "N": 18631,
+  "B0_Majority_AUROC": 0.5,
+  "B1_Evidence_Coverage_AUROC": 0.5,
+  "B3_kNN_Density_AUROC": 0.5463,
+  "B5_Similarity_Distribution_Entropy_AUROC": 0.5,
+  "B8_Combined_AUROC": 0.5463,
+  "B3_AUPRC": 0.2731,
+  "Prevalence_baseline": 0.2403,
+  "95_bootstrap_CI": [
+    0.5366,
+    0.5564
+  ]
+}

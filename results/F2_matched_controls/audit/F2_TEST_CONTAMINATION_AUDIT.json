@@ -1,0 +1,7 @@
+{
+  "test_labels_used": "FOR_TARGET_CONTROL_SEPARATION_ONLY",
+  "test_B3_used": false,
+  "test_predictions_used": false,
+  "B3_used_for_matching": false,
+  "status": "NONE_OBSERVED"
+}

@@ -1,0 +1,1 @@
+Includes definitive results table with verified AUROCs: E0=0.5463, E1(overall)=0.3545, E1(retrieved_insufficient)=0.2754, F1(C)=0.4959, F1(D)=0.5019, F2(matched)=0.3353. Narrative tracks modest association -> failure -> inversion -> collapse -> persistence.

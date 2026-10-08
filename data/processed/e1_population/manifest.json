@@ -1,0 +1,6 @@
+{
+  "averitec_train_supported_v1_N": 671,
+  "averitec_E1_DEV_N": 2384,
+  "averitec_E1_TEST_N": 500,
+  "quarantined_from_train_N": 6
+}

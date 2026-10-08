@@ -1,0 +1,22 @@
+{
+  "dataset": "FEVER",
+  "split": "paper_test",
+  "excluded_instances": [
+    {
+      "instance_id": "67538",
+      "claim": "Planet of the Apes was released.",
+      "reason": "exact_claim_overlap_with_reference_population",
+      "detection_method": "preflight_leakage_audit",
+      "detection_timestamp": "2026-09-27T22:27:01.528856",
+      "reference_population_responsible_for_contamination": "fever_train"
+    },
+    {
+      "instance_id": "95718",
+      "claim": "Boston is in the United States.",
+      "reason": "exact_claim_overlap_with_reference_population",
+      "detection_method": "preflight_leakage_audit",
+      "detection_timestamp": "2026-09-27T22:27:01.547156",
+      "reference_population_responsible_for_contamination": "fever_train"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "dataset_name": "AVeriTeC",
+  "version": "pminervini/averitec (HuggingFace)",
+  "source_url": "https://huggingface.co/datasets/pminervini/averitec",
+  "acquisition_timestamp": "2026-09-29T06:47:13.507282+00:00",
+  "license": "Apache 2.0 (assumed from paper)",
+  "files": [
+    {
+      "filename": "train.jsonl",
+      "original_parquet_path": "data/train-00000-of-00001.parquet",
+      "size_bytes": 7905595,
+      "sha256": "eafc6f9d5c0856231e7f3ba5320490f0020c00e6b66508fd3a779f1b16d67e4f",
+      "record_count": 3068
+    },
+    {
+      "filename": "dev.jsonl",
+      "original_parquet_path": "data/dev-00000-of-00001.parquet",
+      "size_bytes": 1396357,
+      "sha256": "baf79b36b2afdde209a7e135ee83ec7684e7719090f798b9048c731a34177689",
+      "record_count": 500
+    }
+  ]
+}

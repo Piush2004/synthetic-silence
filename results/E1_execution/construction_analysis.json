@@ -1,0 +1,30 @@
+{
+  "retrieved_insufficient": {
+    "N": 35,
+    "positives": 35,
+    "negatives": 0,
+    "AUROC_vs_opposing_class": 0.2754098360655738,
+    "AUPRC": 0.050069106123729855
+  },
+  "rare_valid": {
+    "N": 122,
+    "positives": 0,
+    "negatives": 122,
+    "AUROC_vs_opposing_class": 0.4637323152930609,
+    "AUPRC": "NOT_COMPUTABLE"
+  },
+  "ambiguous_claim": {
+    "N": 305,
+    "positives": 0,
+    "negatives": 305,
+    "AUROC_vs_opposing_class": "NOT_COMPUTABLE",
+    "AUPRC": "NOT_COMPUTABLE"
+  },
+  "contradictory": {
+    "N": 38,
+    "positives": 38,
+    "negatives": 0,
+    "AUROC_vs_opposing_class": 0.42733883890053004,
+    "AUPRC": 0.07598645858723853
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "population_status": "READY",
+  "protocol_status": "FROZEN",
+  "dev_role": "THRESHOLD_CALIBRATION_ONLY",
+  "test_role": "FINAL_EVALUATION_ONLY",
+  "test_tuning_allowed": false,
+  "reference_manifold_frozen": true,
+  "timestamp": "2026-09-29T07:19:13.048583+00:00",
+  "git_sha": "NO_GIT",
+  "artifact_hashes": {
+    "averitec_train_supported_v1.jsonl": "32a6d2a19474b8f6cbf48a75f5b9a8a61250dbb376d53c50fc8cf909be2c6481",
+    "averitec_E1_DEV.jsonl": "6d6f6250a39d893a0f545dfd282ef0b9c446568e377d057f85c0e80081099c88",
+    "averitec_E1_TEST.jsonl": "042d77afe60b0082e6a1f2215a81ac6afeab0a08b9b72b2b6196bc64dd48b7f6"
+  }
+}

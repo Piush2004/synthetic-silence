@@ -1,0 +1,14 @@
+{
+  "project": "SyntheticSilence2.0",
+  "research_phase": "experimental_results_frozen",
+  "E0_status": "FROZEN",
+  "E1_status": "FROZEN",
+  "post_hoc_status": "COMPLETE",
+  "E0_immutability": "VERIFIED",
+  "E1_immutability": "VERIFIED",
+  "leakage_status": "CLEAN",
+  "reproducibility_status": "PASS",
+  "test_tuning": false,
+  "new_experiments_executed": false,
+  "paper_package_status": "READY"
+}

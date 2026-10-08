@@ -1,0 +1,33 @@
+{
+  "TEST_N": 500,
+  "metrics": {
+    "B3_overall_AUROC": 0.3545,
+    "AUPRC": 0.1117,
+    "95_CI": [
+      0.2925,
+      0.4215
+    ]
+  },
+  "construction_analysis": {
+    "retrieved_insufficient_AUROC": 0.2754,
+    "contradictory_AUROC": 0.4273,
+    "rare_valid_AUROC": 0.4637
+  },
+  "threshold_info": {
+    "DEV_threshold": 0.5656,
+    "source": "DEV only"
+  },
+  "status": {
+    "Leakage": "CLEAN",
+    "Reproducibility": "PASS",
+    "E0": "UNCHANGED"
+  },
+  "artifact_hashes": {
+    "E1_EXECUTION_FREEZE.json": "53123831159aca8f801fe8ab980de46b0174378d",
+    "E1_TARGET_DEFINITION.json": "9b9877d49d49642bcfa5378c77d753fb0a1ed434",
+    "E1_THRESHOLD_LOCK.json": "f6de7004f04b736e50699239d2cc234c30b3a05a",
+    "construction_analysis.json": "f87eb1b7aa2572eb7458ee3f6410735bd2846ac6",
+    "statistical_analysis.json": "8c5ce501d05b0bc6fd8baa52c05eaab585458ec8",
+    "threshold_calibration.json": "1a64dd5ccd221195d3935ff9e52ea6463974434a"
+  }
+}

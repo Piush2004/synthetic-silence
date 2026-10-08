@@ -1,0 +1,9 @@
+{
+  "research_documentation": "docs/",
+  "E0_artifacts": "results/E0_baseline_offline/",
+  "E1_artifacts": "results/E1_averitec/",
+  "F1_artifacts": "results/F1_cross_manifold/",
+  "F2_artifacts": "results/F2_matched_controls/",
+  "research_freeze": "results/FINAL_RESEARCH_FREEZE/",
+  "status": "DISCOVERED_AND_VERIFIED"
+}

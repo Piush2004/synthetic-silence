@@ -1,0 +1,8 @@
+{
+  "E0_results": "backend/experiments/results/exp_E0_baseline_offline_6998cbb1/metrics.json",
+  "E1_protocol": "docs/E1_RESEARCH_QUESTION.md",
+  "E1_population": "data/processed/e1_population/",
+  "E1_execution": "results/E1_execution/",
+  "E1_post_analysis": "results/E1_post_analysis/",
+  "reference_manifolds": "data/manifolds/"
+}

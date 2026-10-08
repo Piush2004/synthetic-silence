@@ -1,0 +1,1 @@
+Existing evaluation settings may differ substantially in how insufficient evidence is constructed, motivating explicit cross-construction validation of representation-space evidence-sufficiency signals.

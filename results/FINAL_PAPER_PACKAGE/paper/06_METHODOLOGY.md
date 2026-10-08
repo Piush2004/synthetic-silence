@@ -1,0 +1,1 @@
+Pipeline: Claim -> Normalization -> Representation -> Reference manifold -> kNN density -> Evidence-sufficiency score. B3 is mathematically defined as Mahalanobis distance to k-nearest neighbors in a fitted reference distribution. It is a proximity signal, not an inherent probability.

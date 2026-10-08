@@ -1,0 +1,37 @@
+{
+  "train.jsonl": {
+    "total_records": 311431,
+    "label_distribution": {
+      "SUPPORTS": 193756,
+      "REFUTES": 70066,
+      "NOT ENOUGH INFO": 47609
+    },
+    "missing_labels": 0,
+    "malformed_lines": 0,
+    "duplicate_claims": 175886,
+    "duplicate_normalized_claims": 175912,
+    "avg_claim_length": 44.106212933201896
+  },
+  "paper_dev.jsonl": {
+    "total_records": 37566,
+    "label_distribution": {
+      "NOT ENOUGH INFO": 8941,
+      "SUPPORTS": 14608,
+      "REFUTES": 14017
+    },
+    "missing_labels": 0,
+    "malformed_lines": 0,
+    "duplicate_claims": 17969,
+    "duplicate_normalized_claims": 17971,
+    "avg_claim_length": 46.49409040089443
+  },
+  "paper_test.jsonl": {
+    "total_records": 19998,
+    "label_distribution": {},
+    "missing_labels": 19998,
+    "malformed_lines": 0,
+    "duplicate_claims": 284,
+    "duplicate_normalized_claims": 284,
+    "avg_claim_length": 52.34118411841184
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "number_of_records": 3568,
+  "field_names": [
+    "claim",
+    "justification",
+    "label",
+    "original_claim_url",
+    "fact_checking_article",
+    "location_ISO_code",
+    "questions",
+    "fact_checking_strategies",
+    "reporting_source",
+    "claim_types",
+    "cached_original_claim_url",
+    "required_reannotation",
+    "speaker",
+    "claim_date"
+  ],
+  "missing_values": {
+    "cached_original_claim_url": 2165,
+    "original_claim_url": 1849,
+    "reporting_source": 705,
+    "speaker": 812,
+    "location_ISO_code": 386,
+    "claim": 1,
+    "claim_date": 105
+  },
+  "label_distribution": {
+    "Supported": 971,
+    "Refuted": 2047,
+    "Conflicting Evidence/Cherrypicking": 233,
+    "Not Enough Evidence": 317
+  }
+}

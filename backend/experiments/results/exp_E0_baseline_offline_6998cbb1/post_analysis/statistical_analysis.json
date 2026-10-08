@@ -1,0 +1,44 @@
+{
+  "ROC": {
+    "reproduced_auroc": 0.5463356996267705,
+    "direction": "higher_score_means_greater_insufficiency",
+    "score_inversion_necessary": false
+  },
+  "Precision_Recall": {
+    "auprc": 0.2731021028765185,
+    "positive_prevalence": 0.24029842735226237,
+    "baseline_prevalence_reference": 0.24029842735226237
+  },
+  "Statistical_Uncertainty": {
+    "metric": "AUROC",
+    "confidence_interval": [
+      0.5366106524453207,
+      0.5564085704889299
+    ],
+    "confidence_level": 0.95,
+    "bootstrap_N": 1000,
+    "random_seed": 42,
+    "method": "empirical bootstrap",
+    "contains_0_5": false
+  },
+  "class_conditional_analysis": {
+    "SUPPORTS": {
+      "N": 7205,
+      "mean": 0.761352569555591,
+      "median": 0.7651347517967224,
+      "std": 0.044557866457454715
+    },
+    "REFUTES": {
+      "N": 6949,
+      "mean": 0.7771984990645971,
+      "median": 0.7798375487327576,
+      "std": 0.03702605499648849
+    },
+    "NOT ENOUGH INFO": {
+      "N": 4477,
+      "mean": 0.7763448103959469,
+      "median": 0.7788740992546082,
+      "std": 0.039872963363264964
+    }
+  }
+}

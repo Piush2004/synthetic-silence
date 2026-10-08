@@ -1,0 +1,17 @@
+{
+  "claim_length_chars": {
+    "representation": "character_count",
+    "source": "claim_text",
+    "status": "LOCKED"
+  },
+  "claim_length_words": {
+    "representation": "token_count",
+    "source": "claim_text",
+    "status": "LOCKED"
+  },
+  "lexical_diversity": {
+    "representation": "type_token_ratio",
+    "source": "claim_text",
+    "status": "LOCKED"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "dataset": "AVeriTeC E1 TEST",
+  "target": "retrieved_insufficient",
+  "control": "rare_valid",
+  "caliper": 0.5
+}

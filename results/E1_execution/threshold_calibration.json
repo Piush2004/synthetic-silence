@@ -1,0 +1,17 @@
+{
+  "dataset": "averitec",
+  "split": "E1_DEV",
+  "n": 2384,
+  "positive_class": "is_insufficient=True",
+  "negative_class": "is_insufficient=False",
+  "score_name": "B3_knn_density",
+  "score_direction": "higher",
+  "method": "Youden_J",
+  "threshold": 0.5656394362449646,
+  "TPR": 0.9935897435897436,
+  "TNR": 0.012004175365344467,
+  "J": 0.005593918955087984,
+  "tie_break_rule": "Favor higher threshold (stricter) on tie",
+  "calibration_status": "DEV_CALIBRATED",
+  "test_accessed": false
+}
