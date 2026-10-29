@@ -473,8 +473,7 @@ LIMITATIONS = [
     ]),
 ]
 
-ACKNOWLEDGMENTS = ("The authors thank the maintainers of the FEVER, OpenAlex and Wikipedia resources. "
-                   "[Funding and acknowledgements to be completed.]")
+ACKNOWLEDGMENTS = ("The authors thank the maintainers of the FEVER, OpenAlex and Wikipedia resources.")
 
 APPENDICES = [
     ("Worked Numerical Examples", [
